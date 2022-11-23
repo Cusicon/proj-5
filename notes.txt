@@ -1,0 +1,43 @@
+Next Class
+
+1. Change Font
+2. Implement Bottom
+3. Implement Face, if times accepts
+
+-----------------------------------------
+Selectors in CSS
+
+4 Major Selectors
+
+* - Global
+. - Class Name
+# - Id Name
+element (div, p, a, body ...) - Element Name
+
+All this Selectors and be a child of itself
+
+* .
+* #
+* element
+
+. *
+# *
+element *
+
+Adding CSS styles Formulae
+property-name: property-value;
+
+Selectors in CSS Formulae
+selector {
+    ...do_your_magic
+}
+
+HEX - Hexadecimal (includes numbers and alphabet [either lowercase or uppercase])
+* 0-9a-f
+* 0123456789abcdef
+
+e.g
+#6-digits (8-digits)
+
+e.g
+White color - #ffffff

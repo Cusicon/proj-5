@@ -1,0 +1,24 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.container-folder {
+  border: 1px solid red;
+  height: 100vh;
+}
+
+.container {
+  position: relative;
+  height: 25%;
+  width: 100%;
+  color: #ffffff;
+}
+
+.container .panel {
+  position: absolute;
+  padding: 3px 5px;
+  background-color: #0000005d;
+  border-radius: 3px;
+  bottom: 0;
+}

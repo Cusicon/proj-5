@@ -1,0 +1,46 @@
+Header - S
+
+Foot wear - Splippers - Shoes - Sandal etc
+
+Div -> Header
+
+Header Tag - Sugar still behaves like (Div)
+
+Div - is a Container
+
+English says
+
+Container holds something
+
+
+Div on the screen is show nothing
+
+Div tag is a closing
+
+header
+section
+main
+aside
+footer
+
+div
+
+Ctrl + D - Multiple cursor selection
+
+
+CSS units
+
+Name            Symbols
+pixels          px
+inches          inch
+percentages     %
+viewport        vh (view height), vw (view width)
+
+In English
+Relative - Something an object is connected to.
+
+In CSS
+Relative - This is in relation to the parent element
+
+Position of Relative - Where the parent is, be directly connected.
+Postion of Absolute - Where the parent is, be it direct child.
